@@ -1,0 +1,33 @@
+# wmo_codes
+
+wmo_code = {
+  0: 'Clear Sky',
+  1: 'Clear Sky',
+  2: 'Partly Cloudy',
+  3: 'Cloudy Sky',
+  45: 'Foggy Sky',
+  48: 'Dense Fog',
+  51: 'Light Drizzle',
+  53: 'Moderate Drizzle',
+  55: 'Dense Drizzle',
+  56: 'Light Drizzle',
+  57: 'Dense Drizzle',
+  61: 'Slight Rain',
+  63: 'Moderate Rain',
+  65: 'Heavy Rain',
+  66: 'Light Rain',
+  67: 'Heavy Rain',
+  71: 'Slight Snowfall',
+  73: 'Moderate Snowfall',
+  75: 'Heavy Snowfall',
+  77: 'Snow Grains',
+  80: 'Slight Rain',
+  81: 'Moderate Rain',
+  82: 'Violent Rain',
+  85: 'Slight Snow',
+  86: 'Heavy Snow',
+  95: 'Thunder Storms',
+  96: 'Slight Hail',
+  99: 'Heavy Hail',
+}
+
